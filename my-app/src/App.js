@@ -33,6 +33,7 @@ function Myapp(props) {
   return <div style={nayokStyle} className="myStyle">
     <h2>My name is {props.name} </h2>
     <h4>I live in {props.home}</h4>
+    <h4>I live in {props.home}</h4>
 
   </div>
 }
